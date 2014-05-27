@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>428649DF-C83B-4C3B-BE46-EBA65E980B8D</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Html_Hpple</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>654F50C8-8862-4E96-B064-6731E2F2AA25</key>
+		<string>https://github.com/jasperwanglin/NetworkandWebViewPictureView.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Html_Hpple.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>654F50C8-8862-4E96-B064-6731E2F2AA25</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/jasperwanglin/NetworkandWebViewPictureView.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>654F50C8-8862-4E96-B064-6731E2F2AA25</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>654F50C8-8862-4E96-B064-6731E2F2AA25</string>
+			<key>IDESourceControlWCCName</key>
+			<string>NetworkandWebViewPictureView</string>
+		</dict>
+	</array>
+</dict>
+</plist>
